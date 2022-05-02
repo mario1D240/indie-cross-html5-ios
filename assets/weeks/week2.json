@@ -17,6 +17,6 @@
 	"weekName": "Week 2",
 	"startUnlocked": true,
 
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"hideFreeplay": false
 }
