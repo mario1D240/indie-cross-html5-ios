@@ -4141,7 +4141,7 @@
         "mustHitSection": true
       }
     ],
-    "player3": "gf",
+    "gfVersion": "gf",
     "song": "Bopeebo",
     "stage": "mall",
     "needsVoices": false,
