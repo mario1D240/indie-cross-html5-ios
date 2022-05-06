@@ -4144,7 +4144,7 @@
     "gfVersion": "gf",
     "song": "Bopeebo",
     "stage": "mall",
-    "needsVoices": false,
+    "needsVoices": true,
     "validScore": true,
     "speed": 2.6,
     "bpm": 221
