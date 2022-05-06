@@ -4146,7 +4146,7 @@
     "stage": "mall",
     "needsVoices": true,
     "validScore": true,
-    "speed": 2.6,
+    "speed": 2.4,
     "bpm": 221
   }
 }
