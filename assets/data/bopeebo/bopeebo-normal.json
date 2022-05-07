@@ -4144,9 +4144,10 @@
     "gfVersion": "gf",
     "song": "Bopeebo",
     "stage": "mall",
+    "arrowSkin": "CUPNOTE_assets",
     "needsVoices": true,
     "validScore": true,
     "speed": 2.4,
-    "bpm": 221
+    "bpm": 221,
   }
 }
