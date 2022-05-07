@@ -7901,6 +7901,7 @@
     "player2": "gf-christmas",
     "gfVersion": "gf",
     "song": "Dad Battle",
+    "arrowSkin": "CUPNOTE_assets",
     "needsVoices": true,
     "validScore": true,
     "bpm": 136,
