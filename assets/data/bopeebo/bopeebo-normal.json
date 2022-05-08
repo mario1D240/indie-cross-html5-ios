@@ -1,5 +1,6 @@
 {
   "song": {
+    "arrowSkin": "CUPNOTE_assets",
     "player1": "bf",
     "player2": "senpai",
     "notes": [
@@ -4070,57 +4071,12 @@
       },
       {
         "lengthInSteps": 16,
+        "altAnim": false,
         "typeOfSection": 0,
         "sectionNotes": [],
-        "altAnim": false,
         "bpm": 221,
         "changeBPM": false,
         "mustHitSection": true
-      },
-      {
-        "lengthInSteps": 16,
-        "typeOfSection": 0,
-        "sectionNotes": [],
-        "altAnim": false,
-        "bpm": 221,
-        "changeBPM": false,
-        "mustHitSection": true
-      },
-      {
-        "lengthInSteps": 16,
-        "typeOfSection": 0,
-        "sectionNotes": [],
-        "altAnim": false,
-        "bpm": 221,
-        "changeBPM": false,
-        "mustHitSection": true
-      },
-      {
-        "sectionNotes": [],
-        "typeOfSection": 0,
-        "lengthInSteps": 16,
-        "altAnim": false,
-        "mustHitSection": true,
-        "changeBPM": false,
-        "bpm": 221
-      },
-      {
-        "sectionNotes": [],
-        "typeOfSection": 0,
-        "lengthInSteps": 16,
-        "altAnim": false,
-        "mustHitSection": true,
-        "changeBPM": false,
-        "bpm": 221
-      },
-      {
-        "sectionNotes": [],
-        "typeOfSection": 0,
-        "lengthInSteps": 16,
-        "altAnim": false,
-        "mustHitSection": true,
-        "changeBPM": false,
-        "bpm": 221
       },
       {
         "lengthInSteps": 16,
@@ -4141,13 +4097,11 @@
         "mustHitSection": true
       }
     ],
-    "gfVersion": "gf",
     "song": "Bopeebo",
     "stage": "mall",
-    "arrowSkin": "CUPNOTE_assets",
     "needsVoices": true,
     "validScore": true,
-    "speed": 2.4,
-    "bpm": 221,
+    "speed": 2.3,
+    "bpm": 221
   }
 }
