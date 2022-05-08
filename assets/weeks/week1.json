@@ -14,6 +14,7 @@
 
 	"storyName": "That one cup guy",
         "difficulties": "normal",
+	"difficulties": "undefined",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
 	"startUnlocked": true,
