@@ -13,7 +13,7 @@
 	"weekBackground": "snake",
 
 	"storyName": "That one cup guy",
-  "difficulties": "normal",
+        "difficulties": "normal",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
 	"startUnlocked": true,
