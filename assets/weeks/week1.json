@@ -1,49 +1,50 @@
 {
-  "songs": [
-    [
-      "Bopeebo",
-      "bf-old",
-      [
-        255,
-        255,
-        255
-      ]
-    ],
-    [
-      "Fresh",
-      "bf-old",
-      [
-        255,
-        255,
-        255
-      ]
-    ],
-    [
-      "Dad Battle",
-      "gf",
-      [
-        255,
-        255,
-        255
-      ]
-    ]
-  ],
-  "hideFreeplay": false,
-  "weekBackground": "snake",
-  "difficulties": "normal",
-  "weekCharacters": [
-    "bg",
-    "fun3",
-    "cup"
-  ],
-  "storyName": "That on cup guy",
-  "weekName": "Week1",
-  "freeplayColor": [
-    146,
-    113,
-    253
-  ],
-  "hideStoryMode": false,
-  "weekBefore": "tutorial",
-  "startUnlocked": true
+	"storyName": "That one cup guy",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "snake",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bopeebo",
+		    "bf-old",
+			[
+				235,
+				0,
+				80
+			]
+		],
+		[
+			"Fresh",
+			"bf-old",
+			[
+				195,
+				0,
+				40
+			]
+		],
+		[
+			"Dad Battle",
+			"gf",
+			[
+				66,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"bg",
+		"fun3",
+		"cup"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "That one cup guy"
 }
