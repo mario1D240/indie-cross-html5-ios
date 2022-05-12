@@ -68,12 +68,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Bendy_remastered",
+	"image": "characters/momCar",
 	"position": [
 		0,
 		-50
 	],
-	"healthicon": "bendy",
+	"healthicon": "parents",
 	"flip_x": false,
 	"healthbar_colors": [
 		161,
