@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Bendy remastered.png">
+<TextureAtlas imagePath="momCar.png">
 	<!-- Created with Adobe Animate version 22.0.0.93 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="B-Right instance 10000" x="10" y="10" width="622" height="419" frameX="-12" frameY="-111" frameWidth="634" frameHeight="534"/>
