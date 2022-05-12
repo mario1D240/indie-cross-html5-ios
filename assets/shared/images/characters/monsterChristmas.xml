@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="NM run BF.png">
+<TextureAtlas imagePath="monsterChristmas.png">
 	<!-- Created with Adobe Animate version 22.0.0.93 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Down Miss instance 10000" x="10" y="10" width="324" height="253" frameX="0" frameY="-7" frameWidth="324" frameHeight="267"/>
