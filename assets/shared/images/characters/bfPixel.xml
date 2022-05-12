@@ -1,4 +1,4 @@
-<TextureAtlas imagePath="BoyFriend_BendyShade.png">
+<TextureAtlas imagePath="bfPixel.png">
 	
 	
 	<SubTexture name="BF NOTE DOWN instance 10000" x="10" y="10" width="395" height="349" frameX="0" frameY="-26" frameWidth="395" frameHeight="377"/>
