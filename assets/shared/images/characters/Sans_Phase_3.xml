@@ -1,4 +1,5 @@
-﻿<TextureAtlas imagePath="Sans_Phase_3.png">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sans_Phase_3.png">
 	
 	 
 	<SubTexture name="Down Tired instance 10000" x="10" y="10" width="492" height="478" frameX="0" frameY="-28" frameWidth="530" frameHeight="506"/>
