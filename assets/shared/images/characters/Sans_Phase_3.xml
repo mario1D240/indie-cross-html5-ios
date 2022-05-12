@@ -1,7 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Sans_Phase_3.png">
-	<!-- Created with Adobe Animate version 22.0.0.93 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+﻿<TextureAtlas imagePath="Sans_Phase_3.png">
+	
+	 
 	<SubTexture name="Down Tired instance 10000" x="10" y="10" width="492" height="478" frameX="0" frameY="-28" frameWidth="530" frameHeight="506"/>
 	<SubTexture name="Down Tired instance 10001" x="512" y="10" width="474" height="496" frameX="-9" frameY="-10" frameWidth="530" frameHeight="506"/>
 	<SubTexture name="Down Tired instance 10002" x="512" y="10" width="474" height="496" frameX="-9" frameY="-10" frameWidth="530" frameHeight="506"/>
